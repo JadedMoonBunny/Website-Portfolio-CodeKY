@@ -47,6 +47,9 @@ footer {
   background-color: #333333;
 }
 
+
+
+
 /* Navbar*/
 
 .navbar {
@@ -137,6 +140,8 @@ footer {
 
 
 
+
+
 /*Gallery on homepage*/
 
 div.gallery {
@@ -197,3 +202,7 @@ div.desc {
   transition: opacity .55s ease-in-out;
   -moz-transition: opacity .55s ease-in-out;
   -webkit-transition: opacity }
+
+
+
+  /* Gallery Page */
