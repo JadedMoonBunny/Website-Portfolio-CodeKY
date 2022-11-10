@@ -203,3 +203,14 @@ div.desc {
   -moz-transition: opacity .55s ease-in-out;
   -webkit-transition: opacity }
 
+  
+
+/* Hide and Show Div */
+
+  #myDIV {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: #;
+    margin-top: 20px;
+  }
