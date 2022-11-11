@@ -7,7 +7,8 @@ Hey guys, my project for CodeKY is an artist portfolio website. The website will
 - CSS: A simple hide/show div
 
 - CSS: A fade in/fade out over hover
-The sight will also feature a responsive contact form made in HTML and Javascript while styled in CSS.
+
+-The sight will also feature a responsive contact form made in HTML and Javascript while styled in CSS.
 
 
 ## To get the most out of the website and make sure it is functional download the files and open them in Visual Studio Code. If you do not have the extension Live Server, please download it as it will display and run the website.
