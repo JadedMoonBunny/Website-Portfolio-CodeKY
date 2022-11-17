@@ -4,13 +4,13 @@ Hey guys, my project for CodeKY is an artist portfolio website. The website will
 
 - Javascript: A responsive hamburger-style menu
 
-- CSS: A simple hide/show div
+- CSS: A simple hide/show div //
 This feature is on the about section on the website.
 
-- CSS: A fade in/fade out over hover
+- CSS: A fade in/fade out over hover //
 This feature works on the gallery images on the home and gallery page.
 
-- The sight will also feature a responsive contact form made in HTML and Javascript while styled in CSS.
+- The sight will also feature a responsive contact form made in HTML and Javascript while styled in CSS. //
 The javascript contact form works, however, due to minor error the emails end up lost and no where in any of the mail boxes on the host side.
 
 
